@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">number game</string>
+    <string name="question">Question</string>
+    <string name="_1">1</string>
+    <string name="_2">1</string>
+    <string name="text2">+</string>
+    <string name="text3">3</string>
+    <string name="sumit_answer">sumit answer</string>
+    <string-array name="question">
+        <item>question 1</item>
+        <item>question 2</item>
+        <item>question 3</item>
+        <item>question 4</item>
+        <item>question 5</item>
+        <item>question 6</item>
+        <item>question 7</item>
+        <item>question 8</item>
+        <item>question 9</item>
+        <item>question 10</item>
+    </string-array>
+    <string name="hint"> enter a number here </string>
+
+</resources>
